@@ -1,0 +1,4 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Aug 25 12:43:31 GMT 2022","Thu Aug 25 12:43:34 GMT 2022","2513","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testIssueSearch","testIssueSearch()",""
+"passed","Thu Aug 25 12:43:34 GMT 2022","Thu Aug 25 12:43:36 GMT 2022","2164","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testAnnotatedStep","testAnnotatedStep()",""
+"passed","Thu Aug 25 12:43:23 GMT 2022","Thu Aug 25 12:43:31 GMT 2022","7705","","qa.guru.allure.StepsTest","","qa.guru.allure.StepsTest","testIssueSearchWithLambda","testIssueSearchWithLambda()",""
