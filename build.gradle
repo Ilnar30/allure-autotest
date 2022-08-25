@@ -31,6 +31,7 @@ allure {
 
     test {
         useJUnitPlatform()
+        systemProperties(System.getProperties())
     }
 
     tasks.withType(JavaCompile) {
